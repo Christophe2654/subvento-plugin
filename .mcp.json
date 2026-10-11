@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "subvento": {
+      "type": "http",
+      "url": "https://subvento.finance/mcp"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "subvento",
+  "displayName": "Subvento",
+  "version": "1.0.0",
+  "description": "Trouvez les aides publiques françaises auxquelles une entreprise a droit (subventions, avances, prêts, garanties, crédits d'impôt, exonérations, accompagnements) à partir de son seul SIREN et de ses besoins de financement, avec Subvento, le guichet gratuit des aides publiques aux entreprises.",
+  "author": { "name": "Subvento", "url": "https://subvento.finance" },
+  "homepage": "https://subvento.finance",
+  "license": "MIT",
+  "keywords": ["aides publiques", "subventions", "PME", "financement", "France", "SIREN"]
+}
