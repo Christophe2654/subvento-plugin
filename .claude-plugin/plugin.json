@@ -9,6 +9,10 @@
   },
   "homepage": "https://subvento.finance",
   "privacyPolicyUrl": "https://subvento.finance/politique-de-confidentialite/",
+  "termsOfServiceUrl": "https://subvento.finance/cgu/",
+  "supportUrl": "https://subvento.finance/contact/",
+  "documentationUrl": "https://github.com/Christophe2654/subvento-plugin#readme",
+  "repository": "https://github.com/Christophe2654/subvento-plugin",
   "license": "MIT",
   "keywords": [
     "aides publiques",
